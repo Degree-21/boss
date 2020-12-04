@@ -1,6 +1,6 @@
-#boss招聘 web页面爬虫，以及小的数据可视化的展示
+# boss招聘 web页面爬虫，以及小的数据可视化的展示
 
-##采用技术栈：
+## 采用技术栈：
 1. selenium
  > 爬虫的主要程序，通过模拟浏览器行为得到数据
 2. mongodb
@@ -8,10 +8,10 @@
 3. pyecharts
  > 用于数据展示
 
-##如何开始
-###本项目采用的是 Chrome 驱动 故需要下载对应的驱动
-###sulenium 浏览器驱动下载地址：
-###如何查看适合的版本：
+## 如何开始
+### 本项目采用的是 Chrome 驱动 故需要下载对应的驱动
+### sulenium 浏览器驱动下载地址：
+### 如何查看适合的版本：
 1. google 查看对应版本号
 ![avatar](img/设置.png)
 2. 到 http://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/
@@ -36,7 +36,7 @@
 ![avatar](img/示例2.png)
 
 
-###题外音
+### 题外音
 本项目为闲雅花一天写出来的东西，仅在mac上运行通过，如有问题请提个issues
 看到则会回复
 
