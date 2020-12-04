@@ -1,0 +1,4 @@
+pyecharts==1.9.0
+pymongo==3.11.2
+requests==2.25.0
+selenium==3.141.0
