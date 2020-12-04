@@ -29,7 +29,7 @@
 文件，点击即可查看
 
 数据库文件展示
-![avatar](img/展示.jpg)
+![avatar](img/展示1.jpg)
 
 可视化展示
 ![avatar](img/示例1.png)
