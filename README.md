@@ -14,7 +14,7 @@
 ### 如何查看适合的版本：
 1. google 查看对应版本号
 ![avatar](img/设置.png)
-2. 到 http://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/
+2. 到 http://chromedriver.storage.googleapis.com/index.html
 下载对应驱动
 3. 解压下载包，把里面的驱动放入到项目mul web_driver/ 中，查看conf/app.ini中的驱动配置名称是否相同，不相同修改即可
 >假如下载的文件为 1111.exe 则修改 为  web_driver = web_driver/1111.exe
