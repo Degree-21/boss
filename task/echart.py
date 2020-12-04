@@ -69,7 +69,7 @@ def get_all_chart():
 def get_salary_proportion():
     bar = Bar(init_opts=opts.InitOpts(theme=ThemeType.LIGHT))
     bar.set_global_opts(
-        title_opts=opts.TitleOpts(title="薪资柱状图", ),
+        title_opts=opts.TitleOpts(title="平均薪资柱状图", ),
         legend_opts=opts.LegendOpts(pos_left="20%")
     )
     for i in computer_language:
