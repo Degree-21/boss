@@ -28,7 +28,10 @@
 建议爬虫运行完毕后再运行渲染数据，则会在temp 目录中生成all.html
 文件，点击即可查看
 
-示例
+数据库文件展示
+![avatar](img/展示.jpg)
+
+可视化展示
 ![avatar](img/示例1.png)
 ![avatar](img/示例2.png)
 
