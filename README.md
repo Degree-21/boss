@@ -1,9 +1,9 @@
 #boss招聘 web页面爬虫，以及小的数据可视化的展示
 
 ##采用技术栈：
-1. selenium 
+1. selenium
  > 爬虫的主要程序，通过模拟浏览器行为得到数据
-2. mongodb 
+2. mongodb
  > 用于存储数据 (其实可以用csv只是比较懒)
 3. pyecharts
  > 用于数据展示
@@ -18,7 +18,7 @@
 下载对应驱动
 3. 解压下载包，把里面的驱动放入到项目mul web_driver/ 中，查看conf/app.ini中的驱动配置名称是否相同，不相同修改即可
 >假如下载的文件为 1111.exe 则修改 为  web_driver = web_driver/1111.exe
-4. pip3 install -r requirements.txt 
+4. pip3 install -r requirements.txt
 5. 检查conf/app.ini 中的 MongoDB配置 ，如果没有mongodb ，请百度搜索自行安装
 6. 运行
 > python3 main.py -t r 则运行爬虫程序
